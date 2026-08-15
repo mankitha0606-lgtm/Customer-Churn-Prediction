@@ -9,7 +9,7 @@ The project combines data analysis, SQL, machine learning, model evaluation, SHA
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-https://retail-analytics-platform-k2mlrxmnwsfgbekkv2kja9.streamlit.app/
+https://customer-churn-prediction-zr2ct4huwpvlahctwj9f3z.streamlit.app/
 
 ---
 
@@ -342,7 +342,7 @@ The application is deployed using **Streamlit Community Cloud**.
 
 ### Live Application
 
-🔗 https://retail-analytics-platform-k2mlrxmnwsfgbekkv2kja9.streamlit.app/
+🔗 https://customer-churn-prediction-zr2ct4huwpvlahctwj9f3z.streamlit.app/
 
 ---
 
